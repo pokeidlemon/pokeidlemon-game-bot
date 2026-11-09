@@ -50,7 +50,7 @@ no seu computador.
    ```
 
 2. **Peça o acesso:** clique em
-   [**Solicitar acesso**](../../issues/new?template=solicitar-acesso.yml) e informe o seu usuário do GitHub
+   [**Solicitar acesso**](https://github.com/pokeidlemon/pokeidlemon-game-bot/issues/new?template=solicitar-acesso.yml) e informe o seu usuário do GitHub
    e os **6 últimos caracteres** do código da transação do Pix (fica no comprovante).
    Não tem conta no GitHub? [Crie grátis aqui](https://github.com/signup).
 
@@ -59,4 +59,4 @@ no seu computador.
 
 ## Dúvidas
 
-Abra uma [issue](../../issues/new) aqui. Gostou do bot? Indique para um amigo, isso ajuda o dev. 💙
+Abra uma [issue](https://github.com/pokeidlemon/pokeidlemon-game-bot/issues/new) aqui. Gostou do bot? Indique para um amigo, isso ajuda o dev. 💙
