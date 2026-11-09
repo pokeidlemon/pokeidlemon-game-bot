@@ -1,20 +1,14 @@
 name: Solicitar acesso
-description: Já paguei o Pix e quero acesso ao bot
-title: "Acesso: "
+description: Já paguei o Pix e não recebi o link de download
+title: "Download: "
 labels: ["acesso"]
 body:
   - type: markdown
     attributes:
       value: |
-        Esta página é **pública**: não cole o comprovante, CPF nem dados pessoais aqui.
-        Só o seu usuário do GitHub e os 6 últimos caracteres do código da transação.
-  - type: input
-    id: github
-    attributes:
-      label: Seu usuário do GitHub
-      placeholder: ex.: fulano123
-    validations:
-      required: true
+        Esta página é **pública**: não cole o comprovante, o e-mail, o CPF nem outros dados pessoais aqui.
+        Só os 6 últimos caracteres do código da transação. O link de download é reenviado para o
+        e-mail que você usou na compra.
   - type: input
     id: pix
     attributes:

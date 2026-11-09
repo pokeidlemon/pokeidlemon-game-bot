@@ -3,7 +3,7 @@
 Deixa a sua conta do jogo idle de monstrinhos **logada e caçando 24 horas por dia**, lança a bola por você
 e repõe bolas e poções. Tudo por um painel simples no seu computador.
 
-**Preço: R$ 10,00 (pagamento único, acesso ao código e às atualizações).**
+**Preço: R$ 10,00 (pagamento único, com as atualizações). Para Windows 10/11: baixou, dois cliques, pronto.**
 
 > [!WARNING]
 > Projeto **não oficial**, sem nenhuma ligação com o jogo, com seus criadores ou com a Nintendo /
@@ -32,29 +32,26 @@ e repõe bolas e poções. Tudo por um painel simples no seu computador.
 
 | Computador | Situação |
 |---|---|
-| Windows 10/11 (com WSL2) | funciona; o bot usa o **seu Chrome**, então você vê tudo acontecendo |
-| Linux (Ubuntu) | funciona |
-| macOS | não suportado |
+| Windows 10/11 | funciona com **dois cliques**: sem terminal, sem instalar Python. O bot usa o **seu Chrome**, então você vê tudo acontecendo |
+| Linux, macOS | não vendido pela página automática; pergunte numa issue |
+
+Você só precisa do [Google Chrome](https://www.google.com/chrome/) instalado.
 
 ## Como comprar
 
-1. **Pague R$ 10,00 pelo Pix:**
+1. Abra a **[página de compra](https://pokeidlemon-vendas.pokeidlemon-vendas.workers.dev)** e informe o seu
+   e-mail. Não precisa de conta no GitHub.
+2. **Pague R$ 10,00 pelo Pix** (QR Code ou copia e cola). A página confirma sozinha em segundos.
+3. **Baixe o PokeIdlemon** pelo botão que aparece. O link é só seu e sempre entrega a versão mais nova:
+   salve-o nos favoritos para baixar as atualizações.
+4. Abra o instalador. O Windows pode mostrar **"O Windows protegeu o computador"**, porque o programa não
+   tem assinatura digital: clique em **Mais informações → Executar assim mesmo**. O painel abre sozinho no
+   navegador.
 
-   <img src="assets/pix-qrcode.png" alt="QR Code do Pix" width="240">
-
-   Pix copia e cola:
-
-   ```text
-   00020126580014br.gov.bcb.pix013625238eff-81a0-4480-9751-d629bd1146b9520400005303986540510.005802BR5913MATHEUS LEMES6006BRASIL62100506PIXBOT6304E32E
-   ```
-
-2. **Peça o acesso:** clique em
-   [**Solicitar acesso**](https://github.com/pokeidlemon/pokeidlemon-game-bot/issues/new?template=solicitar-acesso.yml) e informe o seu usuário do GitHub
-   e os **6 últimos caracteres** do código da transação do Pix (fica no comprovante).
-   Não tem conta no GitHub? [Crie grátis aqui](https://github.com/signup).
-
-3. **Pronto:** em até 24 horas você recebe no e-mail do GitHub o convite para o repositório com o código e
-   o passo a passo de instalação.
+Pagou e não recebeu? Abra uma issue em
+[**Solicitar acesso**](https://github.com/pokeidlemon/pokeidlemon-game-bot/issues/new?template=solicitar-acesso.yml)
+só com os **6 últimos caracteres** do código da transação do Pix (fica no comprovante). Não coloque o seu
+e-mail lá, porque a página é pública: o link é enviado para o e-mail que você usou na compra.
 
 ## Dúvidas
 
