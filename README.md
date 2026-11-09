@@ -17,7 +17,9 @@ e repõe bolas e poções. Tudo por um painel simples no seu computador.
 - **Lança a bola** dentro do tempo de captura nas contas sem VIP (a VIP já captura sozinha).
 - **Compra bolas e poções** no Market quando o estoque baixa (opcional, usa o ouro do jogo).
 - **Escolhe a melhor hunt** por XP/h ou ouro/h (opcional, experimental).
-- **Avisos no Telegram ou no Discord:** em breve.
+- **Avisos no Telegram:** o seu celular recebe um aviso quando a conta precisa de você (login,
+  verificação de robô, conta pausada, bot parado) e a cada compra de bola ou poção. Liga pelo painel, sem
+  terminal.
 - **Painel de controle** no navegador: cadastrar contas, configurar e entrar, sem decorar comandos.
 
 ## Seguro para a sua conta
