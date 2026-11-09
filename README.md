@@ -1,8 +1,7 @@
 # PokeIdlemon Game Bot
 
-Deixa a sua conta do jogo idle de monstrinhos **logada e caçando 24 horas por dia**, lança a bola por você,
-repõe bolas e poções e avisa no Telegram ou no Discord quando precisa de você. Tudo por um painel simples
-no seu computador.
+Deixa a sua conta do jogo idle de monstrinhos **logada e caçando 24 horas por dia**, lança a bola por você
+e repõe bolas e poções. Tudo por um painel simples no seu computador.
 
 **Preço: R$ 10,00 (pagamento único, acesso ao código e às atualizações).**
 
@@ -14,18 +13,18 @@ no seu computador.
 ## O que ele faz
 
 - **Mantém a conta na hunt.** Percebe aba travada, login expirado, verificação de robô ou janela fechada,
-  tenta se recuperar e, se não der, pausa e avisa você.
+  tenta se recuperar e, se não der, pausa e mostra o motivo no painel.
 - **Lança a bola** dentro do tempo de captura nas contas sem VIP (a VIP já captura sozinha).
 - **Compra bolas e poções** no Market quando o estoque baixa (opcional, usa o ouro do jogo).
 - **Escolhe a melhor hunt** por XP/h ou ouro/h (opcional, experimental).
-- **Avisa você** no Telegram ou no Discord (opcional).
+- **Avisos no Telegram ou no Discord:** em breve.
 - **Painel de controle** no navegador: cadastrar contas, configurar e entrar, sem decorar comandos.
 
 ## Seguro para a sua conta
 
 - **A sua senha nunca passa pelo bot.** Você entra à mão, na própria página do jogo.
-- **A verificação "você é humano?" é sempre sua.** O bot nunca tenta burlar: se ela aparecer, ele pausa e
-  avisa.
+- **A verificação "você é humano?" é sempre sua.** O bot nunca tenta burlar: se ela aparecer, ele pausa e mostra no painel o que
+  aconteceu.
 - Funciona num navegador de verdade, como um jogador. Sem proxy, sem VPN e sem falar com o servidor do jogo
   por fora.
 
